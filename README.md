@@ -1,4 +1,7 @@
-This is a python project. It is Text-based Slot machine.
-The user will deposit some money and bet on either one, two or three lines of the machine. 
-And then we will determine if they how much money they made by multiplying the values on the line/lines, and adding it to their balance 
-and allowing them to keep on playing until they want to cash out or until they run ot of money.
+# Text-based Slot Machine
+* This is a python project.
+* The user will deposit some money and bet on either one, two or three lines of the machine.
+* The machine will spin and give certain symbols on the line.
+* The symbols have certain values associated to them.
+* It will determine how much money they made by multiplying the values of the symbols on the line/lines the user bet on and adding it to their balance.
+* The user can continue to play till they wish to or till they run out of money.
